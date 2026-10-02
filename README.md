@@ -863,3 +863,27 @@ if __name__ == "__main__":
         ),
         debug=True
     )
+
+
+
+
+
+
+
+
+Projet : Création d’une application web destinée aux étudiants.
+
+Objectif : Permettre aux étudiants de publier leurs TFE, consulter ceux des autres et échanger grâce à un système de discussion.
+
+Technologies : Python, Flask, HTML, CSS, JavaScript et SQLite.
+
+Premières étapes :
+
+1. Définir les fonctionnalités de l’application.
+2. Créer les maquettes des différentes pages.
+3. Créer la base de données.
+4. Développer le système d’inscription et de connexion.
+5. Créer la page d’accueil et le système de dépôt des TFE.
+6. Ajouter progressivement la recherche et le chat.
+
+Résultat attendu : Une application web accessible en ligne permettant aux étudiants de partager leurs TFE et de communiquer entre eux.
